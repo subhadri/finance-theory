@@ -1,0 +1,2 @@
+# finance-theory
+Houses the models built inspired from the material covered by [Quantitative FInance and algorithmic trading](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/?utm_term=&amp;utm_campaign=&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=9623364695&amp;hsa_cam=15827559575&amp;hsa_grp=&amp;hsa_ad=&amp;hsa_src=x&amp;hsa_tgt=&amp;hsa_kw=&amp;hsa_mt=&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gclid=CjwKCAiAlfqOBhAeEiwAYi43F7WSGF8Xp9WKTQcGk8_YYZXztoiG-6zePADxgG0pNPq-OH8p3a0SeRoCtswQAvD_BwE)
